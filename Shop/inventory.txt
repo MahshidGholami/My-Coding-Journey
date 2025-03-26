@@ -1,0 +1,5 @@
+id,name,category,price,quantity
+1,ClawClip,Fashion,200,10
+2,BowClip,Fashion,260,15
+3,Scrunchie,Fashion,180,5
+4,BowHair,Fashion,210,20
