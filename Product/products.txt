@@ -1,0 +1,10 @@
+Product: Headband, Price: 12000, Stock: 10
+Product: Scrunchie, Price: 8000, Stock: 5
+Product: Lace Headband, Price: 15000, Stock: 0
+Product: Denim Bow, Price: 18000, Stock: 12
+Product: Pearl Clip, Price: 10000, Stock: 7
+Product: Velvet Scrunchie, Price: 9500, Stock: 3
+Product: Floral Hairband, Price: 14000, Stock: 0
+Product: Satin Bow, Price: 16000, Stock: 9
+Product: Mini Clip, Price: 7000, Stock: 15
+Product: Braided Band, Price: 11000, Stock: 6
